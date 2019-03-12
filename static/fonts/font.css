@@ -1,0 +1,72 @@
+@font-face {
+	font-family: 'Lato';
+	font-style: normal;
+	font-weight: 400;
+	src:
+		local('Lato Regular'),
+		local('Lato-Regular'),
+		/* from https://fonts.gstatic.com/s/lato/v14/S6uyw4BMUTPHjx4wXg.woff2 */
+		url('Lato_400.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/s/lato/v14/S6uyw4BMUTPHjx4wWA.woff */
+		url('Lato_400.woff') format('woff');
+}
+@font-face {
+	font-family: 'Lato';
+	font-style: normal;
+	font-weight: 700;
+	src:
+		local('Lato Bold'),
+		local('Lato-Bold'),
+		/* from https://fonts.gstatic.com/s/lato/v14/S6u9w4BMUTPHh6UVSwiPGQ.woff2 */
+		url('Lato_700.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/s/lato/v14/S6u9w4BMUTPHh6UVSwiPHw.woff */
+		url('Lato_700.woff') format('woff');
+}
+@font-face {
+	font-family: 'Merriweather';
+	font-style: normal;
+	font-weight: 300;
+	src:
+		local('Merriweather Light'),
+		local('Merriweather-Light'),
+		/* from https://fonts.gstatic.com/s/merriweather/v20/u-4n0qyriQwlOrhSvowK_l521wRZWMf6.woff2 */
+		url('Merriweather_300.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/s/merriweather/v20/u-4n0qyriQwlOrhSvowK_l521wRZWMf8.woff */
+		url('Merriweather_300.woff') format('woff');
+}
+@font-face {
+	font-family: 'Merriweather';
+	font-style: normal;
+	font-weight: 700;
+	src:
+		local('Merriweather Bold'),
+		local('Merriweather-Bold'),
+		/* from https://fonts.gstatic.com/s/merriweather/v20/u-4n0qyriQwlOrhSvowK_l52xwNZWMf6.woff2 */
+		url('Merriweather_700.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/s/merriweather/v20/u-4n0qyriQwlOrhSvowK_l52xwNZWMf8.woff */
+		url('Merriweather_700.woff') format('woff');
+}
+@font-face {
+	font-family: 'Source Code Pro';
+	font-style: normal;
+	font-weight: 400;
+	src:
+		local('Source Code Pro'),
+		local('SourceCodePro-Regular'),
+		/* from https://fonts.gstatic.com/s/sourcecodepro/v9/HI_SiYsKILxRpg3hIP6sJ7fM7PqlPevW.woff2 */
+		url('Source_Code_Pro_400.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/s/sourcecodepro/v9/HI_SiYsKILxRpg3hIP6sJ7fM7PqlPevQ.woff */
+		url('Source_Code_Pro_400.woff') format('woff');
+}
+@font-face {
+	font-family: 'Source Code Pro';
+	font-style: normal;
+	font-weight: 700;
+	src:
+		local('Source Code Pro Bold'),
+		local('SourceCodePro-Bold'),
+		/* from https://fonts.gstatic.com/s/sourcecodepro/v9/HI_XiYsKILxRpg3hIP6sJ7fM7Pqths7Ds-cq.woff2 */
+		url('Source_Code_Pro_700.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/s/sourcecodepro/v9/HI_XiYsKILxRpg3hIP6sJ7fM7Pqths7Ds-cs.woff */
+		url('Source_Code_Pro_700.woff') format('woff');
+}
