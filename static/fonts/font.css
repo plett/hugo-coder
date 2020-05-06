@@ -2,6 +2,7 @@
 	font-family: 'Lato';
 	font-style: normal;
 	font-weight: 400;
+	font-display: swap;
 	src:
 		local('Lato Regular'),
 		local('Lato-Regular'),
@@ -14,6 +15,7 @@
 	font-family: 'Lato';
 	font-style: normal;
 	font-weight: 700;
+	font-display: swap;
 	src:
 		local('Lato Bold'),
 		local('Lato-Bold'),
@@ -26,6 +28,7 @@
 	font-family: 'Merriweather';
 	font-style: normal;
 	font-weight: 300;
+	font-display: swap;
 	src:
 		local('Merriweather Light'),
 		local('Merriweather-Light'),
@@ -38,6 +41,7 @@
 	font-family: 'Merriweather';
 	font-style: normal;
 	font-weight: 700;
+	font-display: swap;
 	src:
 		local('Merriweather Bold'),
 		local('Merriweather-Bold'),
@@ -50,6 +54,7 @@
 	font-family: 'Source Code Pro';
 	font-style: normal;
 	font-weight: 400;
+	font-display: swap;
 	src:
 		local('Source Code Pro Regular'),
 		local('SourceCodePro-Regular'),
@@ -62,6 +67,7 @@
 	font-family: 'Source Code Pro';
 	font-style: normal;
 	font-weight: 700;
+	font-display: swap;
 	src:
 		local('Source Code Pro Bold'),
 		local('SourceCodePro-Bold'),
