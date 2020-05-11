@@ -3,7 +3,11 @@
 {{ end }}
 {{ define "content" }}
   <section class="container list">
-    <h1 class="title">{{ .Title }}</h1>
+    <h1 class="title">{{ .Title }}
+      <a href="index.xml">
+        <i class="fas fa-rss"></i>
+      </a>
+    </h1>
 
     <ul>
       {{- range .Paginator.Pages -}}
